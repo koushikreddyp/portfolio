@@ -31,13 +31,7 @@ const Home: React.FC = () => {
             </div>
           </div>
           <div className="md:w-1/2 flex justify-center">
-            <div className="w-64 h-64 bg-white rounded-full overflow-hidden border-4 border-white shadow-lg">
-              <img
-                src="profile.png"
-                alt="Koushik Reddy"
-                className="w-full h-full object-cover"
-              />
-            </div>
+            
           </div>
         </div>
       </section>
